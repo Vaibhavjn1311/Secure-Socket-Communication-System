@@ -1,7 +1,3 @@
-## Team 14 : 
-- Vatsal Gupta (2024201065) 
-- Vaibhav Jain (2024201023)
-
 # Secure Socket Communication System
 
 A client-server application implementing secure communication using DES encryption, Diffie-Hellman key exchange, and HMAC message authentication.
